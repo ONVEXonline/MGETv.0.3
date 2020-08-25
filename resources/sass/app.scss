@@ -1,0 +1,23 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito:200,600');
+
+//@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Aos
+@import '~aos/src/sass/aos.scss';
+
+// fontawesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+
+// My Scss
+@import 'mycss';
